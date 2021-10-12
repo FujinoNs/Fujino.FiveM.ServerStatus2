@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Fujino.FiveM.ServerStatus2</id>
+    <version>2.0.0</version>
+    <title>Fujino.FiveM.ServerStatus2 by Kroekchai KC(Fujino N's)</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/FujinoNs/Fujino.FiveM.ServerStatus2</projectUrl>
+    <iconUrl>https://i.imgur.com/8lNgN01.png</iconUrl>
+    <description>Fujino.FiveM.ServerStatus2 DLL Support .Net Framework 4.5+ For FiveM Launcher </description>
+    <releaseNotes>
+	How to use: https://github.com/FujinoNs/Fujino.FiveM.ServerStatus2
+	Discord: https://discord.com/invite/ySfm6Ud
+	Youtube: https://www.youtube.com/FujinoNs</releaseNotes>
+    <copyright>Copyright © Fujino 2020-2021</copyright>
+    <tags>Fujino FujinoNs C# Package FiveM FiveM_Launcher KC_Launcher ServerStatus FiveMStatus</tags>
+  </metadata>
+</package>
